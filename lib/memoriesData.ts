@@ -42,7 +42,7 @@ export const timeline: TimelineEvent[] = [
     title: 'The day we met',
     text: 'A random hello that turned into hours of talking.',
     detail: 'I remember we first met on Snapchat because of your friend. ❤️.',
-    image: '/photos/fir.jpeg'
+    image: '/Akshita-My-Universe/photos/fir.jpeg'
   },
   {
     date: '15 August 2026',
