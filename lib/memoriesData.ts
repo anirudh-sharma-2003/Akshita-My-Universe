@@ -49,21 +49,21 @@ export const timeline: TimelineEvent[] = [
     title: 'Our first Movie date',
     text: 'Spending time together.',
     detail: 'At the beginning of the movie, I was so nervous, but after the interval, when I held your hand for the very first time, that feeling was something truly special. ❤️🥹 And feeding each other with our own hands was another beautiful moment that I’ll always cherish. 🫶🏻❤️✨',
-    image: '/photos/mo.jpeg'
+    image: '/Akshita-My-Universe/photos/mo.jpeg'
   },
   {
     date: 'Not Remember',
     title: 'The hard days',
     text: 'You showed up when it mattered most.',
     detail: 'Those days when you talked about leaving me were the hardest for me. 💔🥺 Please, never say that again, even in anger. I cannot bear the thought of losing you. ❤️‍🩹🫂',
-    image: '/photos/sad.jpeg'
+    image: '/Akshita-My-Universe/photos/sad.jpeg'
   },
   {
     date: '29 September or 30 October 2026',
     title: 'Still my favorite person',
     text: 'Favorable moment ever.',
     detail: 'That was the best day of my life, when we became one. ❤️🥹 Being close to you, feeling you near me, and kissing you were the most beautiful moments I could ever ask for. 🫂💋❤️ Those are memories I will cherish forever and never forget. ♾️❤️',
-    image: '/photos/kis.jpeg'
+    image: '/Akshita-My-Universe/photos/kis.jpeg'
   },
 ]
 
@@ -98,7 +98,7 @@ export const memories: Memory[] = [
     caption: 'Kissing challenge',
     date: '29 September 2026',
     note: 'A kissing challenge where we have to kiss each other a lot. 💋❤️',
-    image: '/photos/feel.jpeg',
+    image: '/Akshita-My-Universe/photos/feel.jpeg',
   },
   {
     id: 'm2',
@@ -107,7 +107,7 @@ export const memories: Memory[] = [
     caption: 'Spending time',
     date: 'Aug 30, 2026',
     note: 'We walked until our feet hurt and time goes fast and until the time runs out. ⏳❤️',
-    image: '/photos/sirpur.jpeg'
+    image: '/Akshita-My-Universe/photos/sirpur.jpeg'
   },
   {
     id: 'm3',
@@ -116,7 +116,7 @@ export const memories: Memory[] = [
     caption: 'One Piece Dress',
     date: 'Not remmember',
     note: 'That day when you wore a one-piece dress and we went to Sirpur Lake, you looked so hot and incredibly beautiful. ❤️‍🔥😍 You looked so stunning that I was literally speechless. 🥹❤️✨',
-    image: '/photos/one.jpeg'
+    image: '/Akshita-My-Universe/photos/one.jpeg'
   }
 ]
 
@@ -141,9 +141,9 @@ export type CrazyMoment = {
 }
 
 export const crazyMoments: CrazyMoment[] = [
-  { id: 'c1', title: 'Breakfast at the time of Movie', text: 'The time when our breakfast arrived late, and we were still eating even after the movie had ended. 😂❤️', image: '/photos/awarapan 2.jpeg' },
-  { id: 'c2', title: 'Cafe Event', text: 'The day we went to that café, where the weird smell made you feel unwell for 3–4 days. 🥹❤️', image: '/photos/weired.png' },
-  { id: 'c3', title: 'Meeting in Rain', text: 'he night I came to meet you, but the rain spoiled our plans. Yet, that was the day we kissed each other for the very first time. 💋❤️‍🩹 A moment I’ll never forget. 🫶🏻', image: '/photos/rain.jpeg' },
+  { id: 'c1', title: 'Breakfast at the time of Movie', text: 'The time when our breakfast arrived late, and we were still eating even after the movie had ended. 😂❤️', image: '/Akshita-My-Universe/photos/awarapan 2.jpeg' },
+  { id: 'c2', title: 'Cafe Event', text: 'The day we went to that café, where the weird smell made you feel unwell for 3–4 days. 🥹❤️', image: '/Akshita-My-Universe/photos/weired.png' },
+  { id: 'c3', title: 'Meeting in Rain', text: 'he night I came to meet you, but the rain spoiled our plans. Yet, that was the day we kissed each other for the very first time. 💋❤️‍🩹 A moment I’ll never forget. 🫶🏻', image: '/Akshita-My-Universe/photos/rain.jpeg' },
 ]
 
 export const cake = {
